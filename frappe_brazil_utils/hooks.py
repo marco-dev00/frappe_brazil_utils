@@ -79,6 +79,11 @@ app_license = "mit"
 # 	"filters": "frappe_brazil_utils.utils.jinja_filters"
 # }
 
+# Fixtures
+# --------
+
+fixtures = ["UF"]
+
 # Installation
 # ------------
 
